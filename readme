@@ -1,0 +1,3 @@
+Readme file
+This is a fun python project to generate a dot file from the OXM of A&AI.
+the dot file generator creates the dot file of all the nodes and edge rules in A&AI which in turn can be visulaized.
